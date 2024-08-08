@@ -2,3 +2,4 @@
 xiaoyaliu/alist
 homeassistant/home-assistant
 linkease/ddnsto
+jellyfin/jellyfin
