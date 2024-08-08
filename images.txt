@@ -1,3 +1,4 @@
 
 xiaoyaliu/alist
 homeassistant/home-assistant
+linkease/ddnsto
